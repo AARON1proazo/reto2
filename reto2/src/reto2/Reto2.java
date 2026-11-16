@@ -5,9 +5,8 @@ import java.util.Scanner;
 public class Reto2 {
 
 	public static void main(String[] args) {
-		public static void main(String[] args) {
-			Scanner sc = new Scanner(System.in);
-			int opcion;
+        Scanner sc = new Scanner(System.in);
+        int opcion;
 
 			do {
 				System.out.println("\nSelecciona el tipo de conversión:");
